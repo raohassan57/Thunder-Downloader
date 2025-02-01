@@ -1,6 +1,6 @@
 # Thunder Downloader Setup and Installation
 
-[![Your YouTube Video Title](your_youtube_video_link)](your_youtube_video_link)  Welcome to Thunder Downloader! This guide will walk you through the installation process.
+[![Your YouTube Video Title](https://www.youtube.com/watch?v=RygikaUoRU4)](your_youtube_video_link)  Welcome to Thunder Downloader! This guide will walk you through the installation process.
 
 ## Step 1: Install Required Software
 
