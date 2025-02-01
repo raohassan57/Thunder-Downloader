@@ -1,7 +1,7 @@
 # Thunder Downloader Setup and Installation
    Welcome to Thunder Downloader! This guide will walk you through the installation process.
 
-[![Watch the setup video on YouTube](images/your_video_thumbnail.jpg)](https://www.youtube.com/embed/3)
+[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
 
 ## Step 1: Install Required Software
 
