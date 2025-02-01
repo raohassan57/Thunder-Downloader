@@ -1,6 +1,7 @@
 # Thunder Downloader Setup and Installation
+   Welcome to Thunder Downloader! This guide will walk you through the installation process.
 
-[![Your YouTube Video Title](https://www.youtube.com/watch?v=RygikaUoRU4)](your_youtube_video_link)  Welcome to Thunder Downloader! This guide will walk you through the installation process.
+[[How Banks Magically Create Money](https://www.youtube.com/watch?v=RygikaUoRU4)]
 
 ## Step 1: Install Required Software
 
