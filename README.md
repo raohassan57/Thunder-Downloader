@@ -1,7 +1,7 @@
 # Thunder Downloader Setup and Installation
    Welcome to Thunder Downloader! This guide will walk you through the installation process.
 
- Check out the video demo on [Dailymotion](https://www.dailymotion.com/video/k3p9nSaopkNEq0Cpme0)!
+[![Dailymotion Video](https://s1.dmcdn.net/v/Xr0fK1dgcB3dNJx9a)](https://www.dailymotion.com/video/k3p9nSaopkNEq0Cpme0)
 
 ## Step 1: Install Required Software
 
